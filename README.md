@@ -27,3 +27,5 @@ fish:
 ❯ 
 
 you can see that the point where you enter commands is very different between the two
+
+for some reason bazzite leaks my ip in the terminal for me so thats one way to tell
