@@ -9,7 +9,10 @@ if you mean this is the "how do i use this" sense then view manual.md
 enter this into your terminal:
 
 >fish:
+>
 >echo "alias pyget 'python3 path/to/pyget'" >> path/to/config.fish
 >
+>
 >bash:
+>
 >echo "alias pyget='python3 path/to/pyget'" >> path/to/.bashrc
