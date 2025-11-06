@@ -13,3 +13,17 @@ enter this into your terminal:
 >
 >bash:
 >echo "alias pyget='python3 path/to/pyget'" >> path/to/.bashrc
+
+the way to check which one ur on is look at the terminal
+
+bash:
+
+[vixen@vixen-556 ~]$ 
+
+fish:
+
+~
+
+❯ 
+
+you can see that the point where you enter commands is very different between the two
