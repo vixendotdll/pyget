@@ -13,7 +13,7 @@ enter this into your terminal:
 >
 >bash:
 >echo "alias pyget='python3 path/to/pyget'" >> path/to/.bashrc
-
+## how do i know if im using bash or fish?
 the way to check which one ur on is look at the terminal
 
 bash:
