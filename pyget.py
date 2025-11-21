@@ -9,7 +9,10 @@ import datetime
 import random
 import mimetypes
 if len(sys.argv) < 2:
-    print("Usage: python script.py <url>")
+    print("usage: pyget <url>")
+    sys.exit(1)
+if len(sys.argv) > 1:
+    print("usage: pyget <url>")
     sys.exit(1)
 url = sys.argv[1]
 script_name = os.path.basename(sys.argv[0])
