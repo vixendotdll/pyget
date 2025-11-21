@@ -1,4 +1,4 @@
-#HOW TO USE:
+##HOW TO USE:
 
 pyget.py is the main script of this app, this is the thing you run
 
